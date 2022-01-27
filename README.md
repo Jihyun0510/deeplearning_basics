@@ -6,7 +6,7 @@
 ## CoLab files
 ### 실습 1
 
-- CoLab 사용방법 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RWtCA_C1LJFCYuuoVWhULePcLu03v9bi)
+- CoLab 사용방법 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mWJoCZ2WqirWfwjte57euc0FlASr7p5Y)
 
 - 예제1 (SLP) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Kg64xMoWn1Sqg5CxCh_lsXhmCp468Mdl)
 
