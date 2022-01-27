@@ -6,21 +6,21 @@
 ## CoLab files
 ### 실습 1
 
-- CoLab 사용방법 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-4lpCkdCpqLnQZy3akpXXKQ5KyndteVb?usp=sharing)
+- CoLab 사용방법 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RWtCA_C1LJFCYuuoVWhULePcLu03v9bi)
 
-- 예제1 (SLP) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lKaSo0bU14dWi47Tl15pRlXvRsAX0pOM)
+- 예제1 (SLP) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Kg64xMoWn1Sqg5CxCh_lsXhmCp468Mdl)
 
-- 예제2 (MLP) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rdbY2MxcnMwVzErZpcCUW6NOKxWsMjGj) 
+- 예제2 (MLP) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Pokl16NTpTLoGhSl87QA3DUUderszenv) 
 
-- 예제3 (Overfitting) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nj5L4pWtNhLp2Ikz_moHGAsW9NynTV64)
+- 예제3 (Overfitting) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RWtCA_C1LJFCYuuoVWhULePcLu03v9bi)
 
 
 ### 실습 2
 
-- 예제1 (MLP를 이용한 글자 인식) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fnVI_WNYfi0uB62NXX54M4rYIQmRHZGC?usp=sharing)
+- 예제1 (MLP를 이용한 글자 인식) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/118V9pENQcfXTsipYFRHfPZmDO2_wa74M)
 
-- 예제2 (CNN을 이용한 글자 인식) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SqDI53wpfa5qzROlYipYjeQfq9JB6CCp?usp=sharing)
+- 예제2 (CNN을 이용한 글자 인식) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AwFe7uRUNie9wxO1CctEUMeBNIDnybOd)
 
-- 예제3 (CNN을 이용한 이미지 분류) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Va7JJCEwCNpNjyU78RcXOIX0mGKWu6I8?usp=sharing)
+- 예제3 (CNN을 이용한 이미지 분류) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Sqw7_SW_v9JCrbl06nsya8PfEs2VUUK7)
 
-- 예제4 (Pretrained model을 이용한 이미지 분류) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ORyOrm5zzBiYDLg0GmnynLoW3HBvfh4T?usp=sharing)
+- 예제4 (Pretrained model을 이용한 이미지 분류) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/140FTxHStUB_t4yv003FaCHvxwYusGJNP)
