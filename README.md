@@ -1,5 +1,5 @@
-# deeplearning_basics
-### 🏫 VDSL(Vision and Display Systems Lab) , Sogang Univeristy.
+# Deep Learning Basics
+**🏫 VDSL(Vision and Display Systems Lab) , Sogang Univeristy.**
 
 - pytorch를 이용한 딥러닝 기초 학습
 
@@ -8,11 +8,11 @@
 
 - CoLab 사용방법 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-4lpCkdCpqLnQZy3akpXXKQ5KyndteVb?usp=sharing)
 
-- 예제1 (SLP) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1lKaSo0bU14dWi47Tl15pRlXvRsAX0pOM/view?usp=sharing)
+- 예제1 (SLP) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lKaSo0bU14dWi47Tl15pRlXvRsAX0pOM)
 
-- 예제2 (MLP) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1rdbY2MxcnMwVzErZpcCUW6NOKxWsMjGj/view?usp=sharing) 
+- 예제2 (MLP) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rdbY2MxcnMwVzErZpcCUW6NOKxWsMjGj) 
 
-- 예제3 (Overfitting) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1nj5L4pWtNhLp2Ikz_moHGAsW9NynTV64/view?usp=sharing)
+- 예제3 (Overfitting) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nj5L4pWtNhLp2Ikz_moHGAsW9NynTV64)
 
 
 ### 실습 2
