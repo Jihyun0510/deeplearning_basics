@@ -1,5 +1,5 @@
 # Deep Learning Basics
-**🏫 VDSL(Vision and Display Systems Lab) , Sogang Univeristy.**
+**🏫 Sogang Univeristy.**
 
 - pytorch를 이용한 딥러닝 기초 학습
 
