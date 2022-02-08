@@ -23,9 +23,9 @@
 
 ### 실습 2
 
-- 예제1 (MLP를 이용한 글자 인식) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1UUpYtV69-s4xwaphnRKVAX8JgcuZ7q3y/view?usp=sharing)
+- 예제1 (MLP를 이용한 글자 인식) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UUpYtV69-s4xwaphnRKVAX8JgcuZ7q3y)
 
-- 예제2 (CNN을 이용한 글자 인식) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/12Lnsqu1w0FanAZ5yeuM5Ze8yMQ2d4bwy/view?usp=sharing)
+- 예제2 (CNN을 이용한 글자 인식) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12Lnsqu1w0FanAZ5yeuM5Ze8yMQ2d4bwy#scrollTo=l2y1w9bvY9f1)
 
 - 예제3 (CNN을 이용한 이미지 분류) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Va7JJCEwCNpNjyU78RcXOIX0mGKWu6I8?usp=sharing)
 
